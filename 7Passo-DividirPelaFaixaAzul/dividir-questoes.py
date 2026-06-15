@@ -124,11 +124,11 @@ def dividir_imagem_por_faixas(caminho_imagem, pasta_saida, cor_alvo=(64, 193, 24
 # Exemplo de uso
 if __name__ == "__main__":
     # Configurações
-    #caminho_imagem = "colunas_concatenadas_verticalmente.png"  # Substitua pelo caminho da sua imagem
+    caminho_imagem = "colunas_concatenadas_verticalmente.png"  # Substitua pelo caminho da sua imagem
     #caminho_imagem = "./inteiras/pagina_enem_15.png"  # Substitua pelo caminho da sua imagem
     #caminho_imagem = "./inteiras/pagina_enem_28.png"  # Substitua pelo caminho da sua imagem
     
-    #pasta_saida = "questoes_colunas" # Substitua pelo nome da pasta de saída desejada (questoes_colunas, pagina_15, pagina_28)
+    pasta_saida = "questoes_colunas" # Substitua pelo nome da pasta de saída desejada (questoes_colunas, pagina_15, pagina_28)
     #pasta_saida = "pagina_15" # Substitua pelo nome da pasta de saída desejada (questoes_colunas, pagina_15, pagina_28)
     #pasta_saida = "pagina_28" # Substitua pelo nome da pasta de saída desejada (questoes_colunas, pagina_15, pagina_28)
     
